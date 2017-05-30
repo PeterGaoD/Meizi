@@ -19,6 +19,8 @@
     //Set SVProgressHUD
     [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
     
+    NSLog(@"Test!!!");
+    
     return YES;
 }
 
